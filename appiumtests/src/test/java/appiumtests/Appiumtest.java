@@ -35,7 +35,7 @@ public class Appiumtest  {
 		
 		URL url = new URL("http://127.0.0.1:4723/wd/hub");
 		driver = new AndroidDriver(url,cap);
-		System.out.println("Application Has Been Statrted Succcessfully....");
+		System.out.println("Application Has Been Statrted Succcessfully....// Changes");
 	}
 
 }
